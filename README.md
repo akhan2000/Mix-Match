@@ -1,2 +1,2 @@
 # Mix-Match
-Mix-Match-Music Codebase
+Innovative music blending app using Apple Music API and Shazam Kit for personalized playlists.
